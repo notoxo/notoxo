@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Metin 👋
 
 **Data Scientist & ML Engineer** based in Istanbul.
 I build high-signal AI tools, automate workflows with n8n, and write about the intersection of Finance & ML.
@@ -38,9 +38,5 @@ I build high-signal AI tools, automate workflows with n8n, and write about the i
 ### 📡 Connect & Read
 
 <!-- Socials with Logos -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@YOUR_MEDIUM_USERNAME)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/YOUR_KAGGLE_USERNAME)
-
-<!-- Dynamic Stats (Optional - remove if you prefer minimalism) -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=graywhite)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/metin-samet-korkmaz))
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@metin.korkmaz))
